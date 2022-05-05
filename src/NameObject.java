@@ -1,3 +1,3 @@
 public interface NameObject {
-    public void getName();
+    public String getName();
 }

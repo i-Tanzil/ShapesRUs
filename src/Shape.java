@@ -1,4 +1,4 @@
 public interface Shape extends NameObject {
-    public void getPerimeter();
-    public void getArea();
+    public int getPerimeter();
+    public int getArea();
 }
